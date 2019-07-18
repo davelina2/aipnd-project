@@ -5,7 +5,7 @@
 #    Command-line to run this workspace:
 #
 #
-#    "C:\Program Files (x86)\FME\fme.exe" O:\CIFS\xlu\data\gis\Software\FME\Bath_Files\New\IWMCAC_ETL1.fmw
+#    "C:\Program Files (x86)\FME\fme.exe" O:\Software\FME\Bath_Files\New\IWMCAC_ETL1.fmw
 #          --SourceDataset_ORACLE8I_DB "SDELUS"
 #          --DestDataset_GEODATABASE_SDE "sde_xlu"
 #
@@ -1107,7 +1107,7 @@
 #! </FEATURE_TYPE>
 #! <FEATURE_TYPE
 #! IS_SOURCE="false"
-#! NODE_NAME="IWMCAC.CIEP_WELLSURF_GEOM_SA"
+#! NODE_NAME="IWMCAC.CIEP_WELLSURF_GEOM"
 #! FEATURE_TYPE_NAME=""
 #! FEATURE_TYPE_NAME_QUALIFIER="IWMCAC"
 #! IS_EDITABLE="true"
